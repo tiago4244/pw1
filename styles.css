@@ -1,3 +1,7 @@
 body {
-  background: orange;
+  background: rgb(97, 96, 104);
+}
+p {
+  color: rgba(0, 0, 255, 0.877);
+
 }
